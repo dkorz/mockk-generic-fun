@@ -26,7 +26,6 @@ class FooTest {
         val len = fooCaller.stringLength()
         len.shouldBe(s.length)
 
-
     }
 
 }
